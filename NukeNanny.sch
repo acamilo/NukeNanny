@@ -8,20 +8,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,19 +39,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -13676,65 +13676,82 @@ We've spent an enormous amount of time creating and checking these footprints an
 &lt;br&gt;&lt;br&gt;
 You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
 <packages>
-<package name="SHT1X">
-<description>&lt;b&gt;SHT1x&lt;/b&gt;
-Sensirion Humdity Sensor</description>
-<wire x1="-2.44" y1="2.75" x2="-2.44" y2="3.7" width="0.2032" layer="21"/>
-<wire x1="-2.44" y1="3.7" x2="2.44" y2="3.7" width="0.2032" layer="21"/>
-<wire x1="2.44" y1="3.7" x2="2.44" y2="2.8" width="0.2032" layer="21"/>
-<wire x1="2.44" y1="-2.75" x2="2.44" y2="-3.7" width="0.2032" layer="21"/>
-<wire x1="2.44" y1="-3.7" x2="-2.44" y2="-3.7" width="0.2032" layer="21"/>
-<wire x1="-2.44" y1="-3.7" x2="-2.44" y2="-2.75" width="0.2032" layer="21"/>
-<wire x1="-0.95" y1="2.11" x2="0.95" y2="2.11" width="0.2032" layer="21"/>
-<wire x1="0.95" y1="2.11" x2="0.95" y2="1.51" width="0.2032" layer="21"/>
-<wire x1="0.95" y1="1.51" x2="-0.95" y2="1.51" width="0.2032" layer="21"/>
-<wire x1="-0.95" y1="1.51" x2="-0.95" y2="2.11" width="0.2032" layer="21"/>
-<circle x="-3.83" y="3.17" radius="0.0943" width="0.2032" layer="21"/>
-<smd name="1" x="-2.667" y="1.905" dx="1.8" dy="0.8" layer="1" rot="R180"/>
-<smd name="2" x="-2.667" y="0.635" dx="1.8" dy="0.8" layer="1" rot="R180"/>
-<smd name="3" x="-2.667" y="-0.635" dx="1.8" dy="0.8" layer="1" rot="R180"/>
-<smd name="4" x="-2.667" y="-1.905" dx="1.8" dy="0.8" layer="1" rot="R180"/>
-<smd name="5" x="2.667" y="-1.905" dx="1.8" dy="0.8" layer="1" rot="R180"/>
-<smd name="6" x="2.667" y="-0.635" dx="1.8" dy="0.8" layer="1" rot="R180"/>
-<smd name="7" x="2.667" y="0.635" dx="1.8" dy="0.8" layer="1" rot="R180"/>
-<smd name="8" x="2.667" y="1.905" dx="1.8" dy="0.8" layer="1" rot="R180"/>
-<text x="-1.016" y="-3.048" size="0.4064" layer="27">&gt;Value</text>
-<text x="-0.889" y="-2.413" size="0.4064" layer="25">&gt;Name</text>
+<package name="HTU21D">
+<description>&lt;b&gt;Description:&lt;/b&gt; HTU21D is a very small, low cost, I2C digital humidity and temperature sensor.</description>
+<wire x1="1.5" y1="1.5" x2="1.5" y2="-1.5" width="0.127" layer="51"/>
+<wire x1="1.5" y1="-1.5" x2="-1.5" y2="-1.5" width="0.127" layer="51"/>
+<wire x1="-1.5" y1="1.5" x2="-1.5" y2="-1.5" width="0.127" layer="51"/>
+<wire x1="1.5" y1="1.5" x2="-1.5" y2="1.5" width="0.127" layer="51"/>
+<wire x1="-1.5" y1="1.5" x2="1.5" y2="1.5" width="0.2032" layer="21"/>
+<smd name="NC@6" x="1.5" y="1" dx="0.5" dy="0.8" layer="1" rot="R270"/>
+<smd name="GND" x="1.5" y="0" dx="0.5" dy="0.8" layer="1" rot="R270"/>
+<smd name="DATA" x="1.5" y="-1" dx="0.5" dy="0.8" layer="1" rot="R270"/>
+<smd name="SCK" x="-1.5" y="-1" dx="0.5" dy="0.8" layer="1" rot="R270"/>
+<smd name="VDD" x="-1.5" y="0" dx="0.5" dy="0.8" layer="1" rot="R270"/>
+<smd name="NC@1" x="-1.5" y="1" dx="0.5" dy="0.8" layer="1" rot="R270"/>
+<smd name="7" x="0" y="0" dx="0.2" dy="0.2" layer="1"/>
+<polygon width="0.127" layer="1">
+<vertex x="-0.7" y="1.25"/>
+<vertex x="0.75" y="1.25"/>
+<vertex x="0.75" y="-0.8"/>
+<vertex x="0.3" y="-1.25"/>
+<vertex x="-0.7" y="-1.25"/>
+</polygon>
+<polygon width="0.127" layer="31">
+<vertex x="-0.55" y="1.05"/>
+<vertex x="0.55" y="1.05"/>
+<vertex x="0.55" y="-0.65"/>
+<vertex x="0.1" y="-1.1"/>
+<vertex x="-0.55" y="-1.1"/>
+</polygon>
+<wire x1="-0.7" y1="-1.5" x2="0.7" y2="-1.5" width="0.2032" layer="21"/>
+<wire x1="-0.5" y1="1.2" x2="0.5" y2="1.2" width="0.127" layer="51"/>
+<wire x1="0.5" y1="1.2" x2="0.5" y2="0.5" width="0.127" layer="51"/>
+<wire x1="0.5" y1="0.5" x2="-0.5" y2="0.5" width="0.127" layer="51"/>
+<wire x1="-0.5" y1="0.5" x2="-0.5" y2="1.2" width="0.127" layer="51"/>
+<polygon width="0.127" layer="29">
+<vertex x="-0.775" y="1.325"/>
+<vertex x="-0.775" y="-1.3"/>
+<vertex x="0.375" y="-1.3"/>
+<vertex x="0.825" y="-0.85"/>
+<vertex x="0.825" y="1.325"/>
+</polygon>
+<text x="-1.075" y="1.775" size="0.5" layer="25">&gt;Name</text>
+<text x="-1.325" y="-2.2" size="0.5" layer="27">&gt;Value</text>
 </package>
 </packages>
 <symbols>
-<symbol name="SHT1X">
-<wire x1="5.08" y1="-5.08" x2="-5.08" y2="-5.08" width="0.254" layer="94"/>
-<wire x1="-5.08" y1="-5.08" x2="-5.08" y2="7.62" width="0.254" layer="94"/>
-<wire x1="-5.08" y1="7.62" x2="5.08" y2="7.62" width="0.254" layer="94"/>
-<wire x1="5.08" y1="7.62" x2="5.08" y2="-5.08" width="0.254" layer="94"/>
-<text x="-5.08" y="8.382" size="1.778" layer="95">&gt;NAME</text>
-<text x="-5.08" y="-7.62" size="1.778" layer="96">&gt;Value</text>
-<pin name="DATA" x="-7.62" y="2.54" visible="pin" length="short"/>
-<pin name="GND" x="-7.62" y="5.08" visible="pin" length="short" direction="pwr"/>
-<pin name="SCK" x="-7.62" y="0" visible="pin" length="short" direction="in"/>
-<pin name="VDD" x="-7.62" y="-2.54" visible="pin" length="short" direction="pwr"/>
+<symbol name="HTU21D">
+<description>&lt;b&gt;Description:&lt;/b&gt; The HTU21D is a very small, low cost, I2D digitally controlled humidity and temperature sensor.</description>
+<wire x1="-7.62" y1="-5.08" x2="-7.62" y2="5.08" width="0.254" layer="94"/>
+<wire x1="-7.62" y1="5.08" x2="7.62" y2="5.08" width="0.254" layer="94"/>
+<wire x1="7.62" y1="5.08" x2="7.62" y2="-5.08" width="0.254" layer="94"/>
+<wire x1="7.62" y1="-5.08" x2="-7.62" y2="-5.08" width="0.254" layer="94"/>
+<text x="-7.62" y="5.588" size="1.778" layer="95">&gt;Name</text>
+<text x="-7.62" y="-7.62" size="1.778" layer="95">&gt;Value</text>
+<pin name="SCK" x="10.16" y="0" visible="pin" length="short" direction="in" rot="R180"/>
+<pin name="DATA" x="10.16" y="2.54" visible="pin" length="short" rot="R180"/>
+<pin name="GND@2" x="-10.16" y="0" visible="pin" length="short" direction="pwr"/>
+<pin name="VDD" x="-10.16" y="2.54" visible="pin" length="short" direction="pwr"/>
+<pin name="GND@7" x="-10.16" y="-2.54" visible="pin" length="short" direction="pwr"/>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="SHT1X">
-<description>&lt;b&gt;SHT1x Humdity Sensor&lt;/b&gt;
-Sensirion humdity sensor. Schematic element and footprint proven. Spark Fun Electronics SKU : COM-08227</description>
+<deviceset name="HTU21D" prefix="U">
 <gates>
-<gate name="G$1" symbol="SHT1X" x="0" y="0"/>
+<gate name="U$1" symbol="HTU21D" x="0" y="0"/>
 </gates>
 <devices>
-<device name="SMD" package="SHT1X">
+<device name="SMD" package="HTU21D">
 <connects>
-<connect gate="G$1" pin="DATA" pad="2"/>
-<connect gate="G$1" pin="GND" pad="1"/>
-<connect gate="G$1" pin="SCK" pad="3"/>
-<connect gate="G$1" pin="VDD" pad="4"/>
+<connect gate="U$1" pin="DATA" pad="DATA"/>
+<connect gate="U$1" pin="GND@2" pad="GND"/>
+<connect gate="U$1" pin="GND@7" pad="7"/>
+<connect gate="U$1" pin="SCK" pad="SCK"/>
+<connect gate="U$1" pin="VDD" pad="VDD"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="PROD_ID" value="IC-08303"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 </devices>
@@ -15187,8 +15204,8 @@ MMBT4403 - 40V 600mA SOT-23 (TRANS-09245)</description>
 <part name="SUPPLY2" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY3" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY4" library="supply2" deviceset="GND" device=""/>
-<part name="R1" library="rcl" deviceset="R-US_" device="R0805"/>
-<part name="R2" library="rcl" deviceset="R-US_" device="R0805"/>
+<part name="R1" library="rcl" deviceset="R-US_" device="R0805" value="200"/>
+<part name="R2" library="rcl" deviceset="R-US_" device="R0805" value="200"/>
 <part name="LED1" library="led" deviceset="LED" device="CHIP-LED0805"/>
 <part name="LED2" library="led" deviceset="LED" device="CHIP-LED0805"/>
 <part name="SUPPLY5" library="supply2" deviceset="GND" device=""/>
@@ -15202,10 +15219,10 @@ MMBT4403 - 40V 600mA SOT-23 (TRANS-09245)</description>
 <part name="SUPPLY8" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY9" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY10" library="supply2" deviceset="GND" device=""/>
-<part name="C9" library="rcl" deviceset="C-US" device="C0805" value="3.3"/>
+<part name="C9" library="rcl" deviceset="C-US" device="C0805" value="3.3p"/>
 <part name="C10" library="rcl" deviceset="C-US" device="C0805" value="6.8p"/>
 <part name="SUPPLY11" library="supply2" deviceset="GND" device=""/>
-<part name="C11" library="rcl" deviceset="C-US" device="C0805" value="6.8p"/>
+<part name="C11" library="rcl" deviceset="C-US" device="C0805" value="0.1u"/>
 <part name="SUPPLY12" library="supply2" deviceset="GND" device=""/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
 <part name="R4" library="rcl" deviceset="R-US_" device="R0805" value="1k"/>
@@ -15220,9 +15237,6 @@ MMBT4403 - 40V 600mA SOT-23 (TRANS-09245)</description>
 <part name="C12" library="rcl" deviceset="C-US" device="C0805" value="0.1u"/>
 <part name="P+5" library="supply1" deviceset="VCC" device=""/>
 <part name="SUPPLY15" library="supply2" deviceset="GND" device=""/>
-<part name="U2" library="SparkFun-Sensors" deviceset="SHT1X" device="SMD"/>
-<part name="P+6" library="SparkFun" deviceset="VCC" device=""/>
-<part name="GND1" library="SparkFun" deviceset="GND" device=""/>
 <part name="C13" library="rcl" deviceset="C-US" device="C1206" value="22p"/>
 <part name="C6" library="rcl" deviceset="C-US" device="C1206" value="22p"/>
 <part name="C14" library="rcl" deviceset="C-US" device="C1206" value="22p"/>
@@ -15250,6 +15264,12 @@ MMBT4403 - 40V 600mA SOT-23 (TRANS-09245)</description>
 <part name="C17" library="rcl" deviceset="C-US" device="C0805" value="0.1uF"/>
 <part name="J1" library="SparkFun-Connectors" deviceset="M06" device="SMD-1MM"/>
 <part name="P+7" library="supply1" deviceset="VCC" device=""/>
+<part name="U4" library="SparkFun-Sensors" deviceset="HTU21D" device="SMD" value="HTU21D"/>
+<part name="GND4" library="SparkFun" deviceset="GND" device=""/>
+<part name="P+8" library="SparkFun" deviceset="VCC" device=""/>
+<part name="R13" library="rcl" deviceset="R-US_" device="R0805" value="1k"/>
+<part name="R16" library="rcl" deviceset="R-US_" device="R0805" value="1k"/>
+<part name="SUPPLY6" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -15324,9 +15344,6 @@ Cell Colors:</text>
 <instance part="C12" gate="G$1" x="-45.72" y="25.4"/>
 <instance part="P+5" gate="VCC" x="-45.72" y="33.02"/>
 <instance part="SUPPLY15" gate="GND" x="-45.72" y="15.24"/>
-<instance part="U2" gate="G$1" x="-15.24" y="152.4" rot="R180"/>
-<instance part="P+6" gate="1" x="-5.08" y="157.48"/>
-<instance part="GND1" gate="1" x="-5.08" y="142.24"/>
 <instance part="C13" gate="G$1" x="-7.62" y="101.6" rot="R270"/>
 <instance part="C6" gate="G$1" x="-7.62" y="109.22" rot="R270"/>
 <instance part="C14" gate="G$1" x="-7.62" y="93.98" rot="R270"/>
@@ -15354,6 +15371,12 @@ Cell Colors:</text>
 <instance part="C17" gate="G$1" x="-157.48" y="83.82"/>
 <instance part="J1" gate="G$1" x="-228.6" y="142.24"/>
 <instance part="P+7" gate="VCC" x="-53.34" y="111.76"/>
+<instance part="U4" gate="U$1" x="-17.78" y="175.26"/>
+<instance part="GND4" gate="1" x="-30.48" y="167.64"/>
+<instance part="P+8" gate="1" x="-40.64" y="177.8"/>
+<instance part="R13" gate="G$1" x="-5.08" y="193.04" rot="R270"/>
+<instance part="R16" gate="G$1" x="0" y="193.04" rot="R270"/>
+<instance part="SUPPLY6" gate="G$1" x="-5.08" y="200.66"/>
 </instances>
 <busses>
 </busses>
@@ -15549,12 +15572,6 @@ Cell Colors:</text>
 <wire x1="-45.72" y1="20.32" x2="-45.72" y2="17.78" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U2" gate="G$1" pin="GND"/>
-<wire x1="-7.62" y1="147.32" x2="-5.08" y2="147.32" width="0.1524" layer="91"/>
-<wire x1="-5.08" y1="147.32" x2="-5.08" y2="144.78" width="0.1524" layer="91"/>
-<pinref part="GND1" gate="1" pin="GND"/>
-</segment>
-<segment>
 <pinref part="GND2" gate="1" pin="GND"/>
 <wire x1="-81.28" y1="124.46" x2="-83.82" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="-83.82" y1="124.46" x2="-83.82" y2="121.92" width="0.1524" layer="91"/>
@@ -15594,6 +15611,16 @@ Cell Colors:</text>
 <pinref part="J1" gate="G$1" pin="5"/>
 <pinref part="GND5" gate="1" pin="GND"/>
 <wire x1="-213.36" y1="147.32" x2="-223.52" y2="147.32" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<wire x1="-27.94" y1="172.72" x2="-30.48" y2="172.72" width="0.1524" layer="91"/>
+<pinref part="U4" gate="U$1" pin="GND@7"/>
+<pinref part="U4" gate="U$1" pin="GND@2"/>
+<wire x1="-27.94" y1="175.26" x2="-30.48" y2="175.26" width="0.1524" layer="91"/>
+<wire x1="-30.48" y1="175.26" x2="-30.48" y2="172.72" width="0.1524" layer="91"/>
+<pinref part="GND4" gate="1" pin="GND"/>
+<wire x1="-30.48" y1="172.72" x2="-30.48" y2="170.18" width="0.1524" layer="91"/>
+<junction x="-30.48" y="172.72"/>
 </segment>
 </net>
 <net name="N$16" class="0">
@@ -15654,12 +15681,6 @@ Cell Colors:</text>
 <wire x1="-45.72" y1="27.94" x2="-45.72" y2="30.48" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U2" gate="G$1" pin="VDD"/>
-<wire x1="-7.62" y1="154.94" x2="-5.08" y2="154.94" width="0.1524" layer="91"/>
-<wire x1="-5.08" y1="154.94" x2="-5.08" y2="157.48" width="0.1524" layer="91"/>
-<pinref part="P+6" gate="1" pin="VCC"/>
-</segment>
-<segment>
 <pinref part="U3" gate="U1" pin="VSUP"/>
 <wire x1="-144.78" y1="149.86" x2="-142.24" y2="149.86" width="0.1524" layer="91"/>
 <wire x1="-144.78" y1="152.4" x2="-144.78" y2="149.86" width="0.1524" layer="91"/>
@@ -15685,6 +15706,19 @@ Cell Colors:</text>
 <pinref part="R1" gate="G$1" pin="2"/>
 <pinref part="P+7" gate="VCC" pin="VCC"/>
 <wire x1="-53.34" y1="109.22" x2="-53.34" y2="106.68" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<wire x1="-27.94" y1="177.8" x2="-40.64" y2="177.8" width="0.1524" layer="91"/>
+<pinref part="U4" gate="U$1" pin="VDD"/>
+<pinref part="P+8" gate="1" pin="VCC"/>
+</segment>
+<segment>
+<pinref part="R16" gate="G$1" pin="1"/>
+<pinref part="R13" gate="G$1" pin="1"/>
+<wire x1="0" y1="198.12" x2="-5.08" y2="198.12" width="0.1524" layer="91"/>
+<pinref part="SUPPLY6" gate="G$1" pin="VCC"/>
+<wire x1="-5.08" y1="198.12" x2="-5.08" y2="200.66" width="0.1524" layer="91"/>
+<junction x="-5.08" y="198.12"/>
 </segment>
 </net>
 <net name="MOSI" class="0">
@@ -15835,26 +15869,34 @@ Cell Colors:</text>
 </net>
 <net name="SHDAT" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="DATA"/>
-<wire x1="-7.62" y1="149.86" x2="-2.54" y2="149.86" width="0.1524" layer="91"/>
-<label x="-2.54" y="149.86" size="1.27" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="U$1" gate="G$1" pin="P06"/>
 <wire x1="20.32" y1="93.98" x2="15.24" y2="93.98" width="0.1524" layer="91"/>
 <label x="15.24" y="93.98" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="U4" gate="U$1" pin="DATA"/>
+<wire x1="-7.62" y1="177.8" x2="-5.08" y2="177.8" width="0.1524" layer="91"/>
+<label x="10.16" y="177.8" size="1.27" layer="95" xref="yes"/>
+<pinref part="R13" gate="G$1" pin="2"/>
+<wire x1="-5.08" y1="177.8" x2="10.16" y2="177.8" width="0.1524" layer="91"/>
+<wire x1="-5.08" y1="187.96" x2="-5.08" y2="177.8" width="0.1524" layer="91"/>
+<junction x="-5.08" y="177.8"/>
+</segment>
 </net>
 <net name="SHSCK" class="0">
-<segment>
-<pinref part="U2" gate="G$1" pin="SCK"/>
-<wire x1="-7.62" y1="152.4" x2="-2.54" y2="152.4" width="0.1524" layer="91"/>
-<label x="-2.54" y="152.4" size="1.27" layer="95" xref="yes"/>
-</segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="P07"/>
 <wire x1="20.32" y1="91.44" x2="15.24" y2="91.44" width="0.1524" layer="91"/>
 <label x="15.24" y="91.44" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U4" gate="U$1" pin="SCK"/>
+<wire x1="-7.62" y1="175.26" x2="0" y2="175.26" width="0.1524" layer="91"/>
+<label x="10.16" y="175.26" size="1.27" layer="95" xref="yes"/>
+<pinref part="R16" gate="G$1" pin="2"/>
+<wire x1="0" y1="175.26" x2="10.16" y2="175.26" width="0.1524" layer="91"/>
+<wire x1="0" y1="187.96" x2="0" y2="175.26" width="0.1524" layer="91"/>
+<junction x="0" y="175.26"/>
 </segment>
 </net>
 <net name="HXDAT" class="0">

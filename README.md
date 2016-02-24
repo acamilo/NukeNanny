@@ -2,7 +2,7 @@
 Sensor Node for beehive data collection. 433mhz radio. temp/humidity/ optionally weight.
 
 ## Sensors
- * Humidity/Temp (SHT1X)
+ * Humidity/Temp (HTU21D)
  * two optional load cells (HX711)
 
 ## Radio
